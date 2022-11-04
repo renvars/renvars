@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Renars Varslavans!
 
 I'm a Java developer, comfortable working with Spring Boot and plain Java. My other technologies are listed in the **toolbox** below!<br>
-*My LinkedIn profile* - <https://www.linkedin.com/in/ren%C4%81rs-varslav%C4%81ns-80462b236/>
+*My LinkedIn profile* - <https://www.linkedin.com/in/renars-varslavans/>
 
 My Java coding skills have come from the Codelex bootcamp, but before that I was learning about HTML/CSS/JavaScript/Solidity on my own for 2 years!
 At the moment I'm getting my formal education at EKA (Ekonomikas un kulturas augstskola) university in IT Engeneering (To finish 2026).
