@@ -10,7 +10,7 @@ I've always liked programming and I'm eager to continue my development in Java a
 
 ---
 🧰 **Toolbox**<br>
-<img src="https://cdn.worldvectorlogo.com/logos/javas.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/><img src="https://worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javas.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/>
 
 ---
 **Below I have listed three of my projects:**
