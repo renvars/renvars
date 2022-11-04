@@ -14,6 +14,7 @@ Below I have listed three of my projects:
 Website -
 
  About the project:
+ 
  -The website is made in pure HTML and SCSS, using JavaScript to connect the SmartContract to the actual page and allowing anyone with a metamask wallet to mint the NFTs
  -Smart contract created with Solidity in an online IDE remix. Using the most gas fee-friendly minting standard (ERC-721A). Deployed and verified using etherscan.io
  -Minting functionallity integration was done using Walletconnect API that allows users to mint from a Desktop Pc or phone.
