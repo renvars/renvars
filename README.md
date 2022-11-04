@@ -11,7 +11,7 @@ I've always liked programming and I'm eager to continue my development in Java a
 ---
 
 🧰 Toolbox<br>
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+![alt text](img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/)
 
 ---
 **I have listed three of my projects below:**
