@@ -9,11 +9,12 @@ At the moment I'm getting my formal education at EKA (Ekonomikas un kulturas aug
 I've always liked programming and I'm eager to continue my development in Java and other programming-related technologies/languages.
 
 ---
-🧰 **Toolbox**<br>
-<img src="https://cdn.worldvectorlogo.com/logos/javas.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logo/spring-14" alt="Spring Logo" width="50" height="50"/>
+
+🧰 Toolbox<br>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
-**Below I have listed three of my projects:**
+**I have listed three of my projects below:**
 
 1.*NFT minting website and Solidity (Ethereum) smart Conctract*<br>
 **Website** - <http://badassbaristas.com/>
