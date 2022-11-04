@@ -11,7 +11,7 @@ I've always liked programming and I'm eager to continue my development in Java a
 ---
 **Below I have listed three of my projects:**
 
-1.NFT minting website and Solidity (Ethereum) smart Conctract
+1.NFT minting website and Solidity (Ethereum) smart Conctract<br>
 **Website** - <http://badassbaristas.com/>
 
  About the project:
