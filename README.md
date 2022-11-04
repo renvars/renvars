@@ -15,10 +15,10 @@ Website - <http://badassbaristas.com/>
 
  About the project:
  
- -The website is made in pure HTML and SCSS, using JavaScript to connect the SmartContract to the actual page and allowing anyone with a metamask wallet to mint the NFTs
- -Smart contract created with Solidity in an online IDE remix. Using the most gas fee-friendly minting standard (ERC-721A). Deployed and verified using etherscan.io
- -Minting functionallity integration was done using Walletconnect API that allows users to mint from a Desktop Pc or phone.
- -For the NFT collection itself, coded a custom Python program to generate the images combining layers based on their weight and chance. Once created the metadata for the specific NFT with its unique traits is saved in separate folders. No two identical NFTs can be made.
- -Metadata generation and saving is done following Opensea Metadata Standart to ensure the visibility and option to sell the NFT on their marketplace
- -Metadata and Images are hosted using pinata.cloud, because there were 10,000 images generated with the total size of 10GB, they had to be uploaded with the Pinata API
- -Website is hosted using hostgator.com
+ -The website is made in pure HTML and SCSS, using JavaScript to connect the SmartContract to the actual page and allowing anyone with a metamask wallet to mint the NFTs<br>
+ -Smart contract created with Solidity in an online IDE remix. Using the most gas fee-friendly minting standard (ERC-721A). Deployed and verified using etherscan.io<br>
+ -Minting functionallity integration was done using Walletconnect API that allows users to mint from a Desktop Pc or phone.<br>
+ -For the NFT collection itself, coded a custom Python program to generate the images combining layers based on their weight and chance. Once created the metadata for the specific NFT with its unique traits is saved in separate folders. No two identical NFTs can be made.<br>
+ -Metadata generation and saving is done following Opensea Metadata Standart to ensure the visibility and option to sell the NFT on their marketplace<br>
+ -Metadata and Images are hosted using pinata.cloud, because there were 10,000 images generated with the total size of 10GB, they had to be uploaded with the Pinata API<br>
+ -Website is hosted using hostgator.com<br>
