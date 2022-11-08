@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is Renars Varslavans!
 
-I'm a Java developer, comfortable working with Spring Boot and plain Java. My other technologies are listed in the **toolbox** below!<br>
+I'm a Software Developer, comfortable working with Spring Boot and plain Java. My other technologies are listed in the **toolbox** below!<br>
 *My LinkedIn profile* - <https://www.linkedin.com/in/renars-varslavans/><br>
 *Codelex for companies* - <https://www.codelex.io/uznemumiem><br>
 
