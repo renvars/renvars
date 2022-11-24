@@ -5,7 +5,7 @@
 - 👀 Looking to create usefull IT solutions
 - 📖 Attaining a Bachelors degree in IT Engeneering
 - 🪴 Learning about Java, Spring Boot and Vuejs
-- 🏅 Latest Project
+- 🏅 Latest Project. [Java Exercises](https://github.com/renvars/home-exercises-java)
 - 🔮 Project currenty in the works. [Flight Planner](https://github.com/renvars/flight-planner) 
 
 ---
