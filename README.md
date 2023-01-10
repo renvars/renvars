@@ -10,8 +10,8 @@
 
 
 - 🏆 Done Projects:
-  * [Flight Planner (Java)] https://github.com/renvars/flight-planner
-  * [Public Country Holdiays (Java)] (https://github.com/renvars/publicCountryHolidays) 
+  * [Flight Planner (Java)](https://github.com/renvars/flight-planner)
+  * [Public Country Holdiays (Java)](https://github.com/renvars/publicCountryHolidays) 
 ---
 
 🧰 **Skills :** <br>
