@@ -5,9 +5,13 @@
 - 👀 Looking to create usefull IT solutions
 - 📖 Attaining a Bachelors degree in IT Engeneering
 - 🪴 Learning about Java, Spring Boot and Vuejs
-- 🏅 Latest Project. [Flight-Planner](https://github.com/renvars/flight-planner)
-- 🔮 Project currenty in the works. [Public Country Holidays](https://github.com/renvars/publicCountryHolidays) 
+- 🏅 Latest Project. [Public Country Holidays](https://github.com/renvars/publicCountryHolidays) 
+- 🔮 Project currenty in the works. [Sudoku Validator Ruby]
 
+
+- 🏆 Done Projects:
+  * [Flight Planner (Java)] https://github.com/renvars/flight-planner
+  * [Public Country Holdiays (Java)] (https://github.com/renvars/publicCountryHolidays) 
 ---
 
 🧰 **Skills :** <br>
