@@ -21,6 +21,8 @@
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/docker/docker-original-wordmark.svg" width="80" height="80">
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/git/git-original-wordmark.svg" width="80" height="80">
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/gradle/gradle-plain.svg" width="80" height="80">
+<img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="80" height="80">
+
 
 
 ---
