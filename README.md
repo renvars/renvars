@@ -6,7 +6,7 @@
 - 📖 Attaining a Bachelors degree in IT Engeneering
 - 🪴 Learning about Java, Spring Boot and Vuejs
 - 🏅 Latest Project. [Public Country Holidays](https://github.com/renvars/publicCountryHolidays) 
-- 🔮 Project currenty in the works. [Sudoku Validator Ruby]
+- 🔮 Project currenty in the works. [Student Campus](https://github.com/renvars/StudentCampus)
 
 
 - 🏆 Done Projects:
