@@ -4,7 +4,7 @@
 
 - 👀 Looking to create usefull IT solutions
 - 📖 Attaining a Bachelors degree in IT Engeneering
-- 🪴 Learning about Java, Spring Boot and Vuejs
+- 🪴 Learning about Java, Spring Boot, Ruby and Vuejs
 - 🏅 Latest Project. [Public Country Holidays](https://github.com/renvars/publicCountryHolidays) 
 - 🔮 Project currenty in the works. [Student Campus](https://github.com/renvars/StudentCampus)
 
