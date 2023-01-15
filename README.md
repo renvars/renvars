@@ -5,13 +5,14 @@
 - 👀 Looking to create usefull IT solutions
 - 📖 Attaining a Bachelors degree in IT Engeneering
 - 🪴 Learning about Java, Spring Boot, Ruby and Vuejs
-- 🏅 Latest Project. [Public Country Holidays](https://github.com/renvars/publicCountryHolidays) 
+- 🏅 Latest Project. [SudokuValidator](https://github.com/renvars/SudokuValidator) 
 - 🔮 Project currenty in the works. [Student Campus](https://github.com/renvars/StudentCampus)
 
 
 - 🏆 Done Projects:
   * [Flight Planner (Java)](https://github.com/renvars/flight-planner)
   * [Public Country Holdiays (Java)](https://github.com/renvars/publicCountryHolidays) 
+  * [SudokuValidator (Ruby)](https://github.com/renvars/SudokuValidator) 
 ---
 
 🧰 **Skills :** <br>
@@ -22,9 +23,6 @@
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/git/git-original-wordmark.svg" width="80" height="80">
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/gradle/gradle-plain.svg" width="80" height="80">
 <img src="https://raw.githubusercontent.com/renvars/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="80" height="80">
-
-
-
 ---
 #### Contacts :
 
